@@ -1,1 +1,7 @@
 project_env
+Xtrain2_a.npy
+Xtest2_a.npy
+Xtest2_b.npy
+Xtrain2_b.npy
+Ytrain2_a.npy
+Ytrain2_b.npy
